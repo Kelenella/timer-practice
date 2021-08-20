@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":";;;AAAA,aAAA,QAAA","file":"src.d73ffa4a.js","sourceRoot":"../src","sourcesContent":["import './sass/main.scss';\n\n\n// console.log(new Date(\"1995-12-17T03:24:00\"));\n\n// for (let i = 3; i > 0; i--) {\n//     setTimeout(() => console.log(i), i * 1000);\n// }\n"]}
